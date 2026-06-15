@@ -1,12 +1,12 @@
-# Emprendedores Conscientes — Sitio Web
+# ORIGEN — Sitio Web
 
-Repositorio oficial del proyecto **Emprendedores Conscientes**, liderado por **Mari** (Marianela), coach ontológica y acompañante transformacional radicada en La Pampa, Argentina.
+Repositorio oficial del proyecto **ORIGEN**, liderado por **Mari** (Marianela), coach ontológica y acompañante transformacional radicada en La Pampa, Argentina.
 
 ---
 
 ## Sobre el Proyecto
 
-**Emprendedores Conscientes** es una propuesta de acompañamiento personal y grupal orientada a personas que reconocen la necesidad de cambio pero se encuentran estancadas.
+**ORIGEN** es una propuesta de acompañamiento personal y grupal orientada a personas que reconocen la necesidad de cambio pero se encuentran estancadas.
 
 > "Cambiar no es cuestión de saber más. Es cuestión de ver lo que hoy no podés ver."
 

@@ -1,8 +1,8 @@
-# Guía de Marca — Emprendedores Conscientes
+# Guía de Marca — ORIGEN
 
 ## Identidad de Marca
 
-**Nombre del proyecto:** Emprendedores Conscientes  
+**Nombre del proyecto:** ORIGEN  
 **Programa principal:** ORIGEN  
 **Fundadora:** Mari (Marianela)
 

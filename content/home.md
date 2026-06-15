@@ -1,4 +1,4 @@
-# Página Principal — Emprendedores Conscientes
+# Página Principal — ORIGEN
 
 ## URL
 https://marianelasm6.wixsite.com/inicio
